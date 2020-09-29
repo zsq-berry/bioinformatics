@@ -1,0 +1,21 @@
+Host: ftp.admerahealth.com
+Username: hui.hai.xue
+Password: M!JmsXZBMs
+
+https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr4%3A129487992%2D129567821&hgsid=788927843_87nefVebAqUe6YAlaFyILWKvPmDS
+
+
+http://genome.cse.ucsc.edu/cgi-bin/hgTracks?db=mm10&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr4%3A129487992%2D129567821&hgsid=789069013_wzoNj9g6JXk09EppepdevQ6r0PMA
+
+
+https://hdac.s3.amazonaws.com/dKO_D0-dKO_D1.bed.bb
+
+https://hdac.s3.amazonaws.com/dKO_D0-WT_D0.bed.bb
+ 	
+https://hdac.s3.amazonaws.com/dKO_D0-WT_D1.bed.bb	
+
+https://hdac.s3.amazonaws.com/dKO_D1-WT_D0.bed.bb
+
+https://hdac.s3.amazonaws.com/dKO_D1-WT_D1.bed.bb 	
+
+https://hdac.s3.amazonaws.com/WT_D0-WT_D1.bed.bb
